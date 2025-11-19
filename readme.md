@@ -63,9 +63,9 @@ The workflow offers:
 ---
 
 
-## 🔹 Optional Extras: `audio_nodes.py`
+## 🔹 Optional Extras: `nodes_audio.py`
 
-This repository also includes a **patched version of `audio_nodes.py`**.
+This repository also includes a **patched version of `nodes_audio.py`**.
 
 * **Purpose:** Enables ConfyUI to save audio files directly as **WAV** format.
 * **Installation:**
@@ -80,4 +80,5 @@ This repository also includes a **patched version of `audio_nodes.py`**.
 ## 🔹 License
 
 This workflow is **free to use** for personal projects.
+
 
